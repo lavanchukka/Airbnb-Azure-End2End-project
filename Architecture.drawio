@@ -7,10 +7,11 @@
         <mxCell id="mD-MOO04Elf1HDVq-07j-12" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5OdJohwx2bvP_gbZxEbY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mD-MOO04Elf1HDVq-07j-20" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="mD-MOO04Elf1HDVq-07j-19">
+        <mxCell id="mD-MOO04Elf1HDVq-07j-25" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="mD-MOO04Elf1HDVq-07j-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="140" />
+              <mxPoint x="580" y="180" />
+              <mxPoint x="470" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -70,7 +71,7 @@
           <mxGeometry height="40" width="120" x="-210" y="130" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bronze layer" vertex="1">
-          <mxGeometry height="40" width="120" x="80" y="110" as="geometry" />
+          <mxGeometry height="40" width="120" x="80" y="100" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Silver layer" vertex="1">
           <mxGeometry height="40" width="120" x="220" y="100" as="geometry" />
@@ -84,8 +85,17 @@
         <mxCell id="mD-MOO04Elf1HDVq-07j-18" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" target="5OdJohwx2bvP_gbZxEbY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mD-MOO04Elf1HDVq-07j-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="120" />
+            </Array>
+            <mxPoint x="490" y="120" as="sourcePoint" />
+            <mxPoint x="780" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gold layer" vertex="1">
-          <mxGeometry height="40" width="120" x="380" y="110" as="geometry" />
+          <mxGeometry height="40" width="120" x="380" y="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
