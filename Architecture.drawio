@@ -19,7 +19,7 @@
           <mxGeometry height="78" width="67.83" x="560" y="370" as="geometry" />
         </mxCell>
         <mxCell id="5OdJohwx2bvP_gbZxEbY-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="" vertex="1">
-          <mxGeometry height="68" width="51" x="740" y="342" as="geometry" />
+          <mxGeometry height="68" width="51" x="740" y="370" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-3" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" target="5OdJohwx2bvP_gbZxEbY-4">
           <mxGeometry relative="1" as="geometry" />
@@ -85,13 +85,14 @@
         <mxCell id="mD-MOO04Elf1HDVq-07j-18" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" target="5OdJohwx2bvP_gbZxEbY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mD-MOO04Elf1HDVq-07j-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;">
+        <mxCell id="mD-MOO04Elf1HDVq-07j-23" edge="1" parent="1" source="mD-MOO04Elf1HDVq-07j-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;exitX=0.933;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="132" />
+              <mxPoint x="492" y="160" />
+              <mxPoint x="780" y="160" />
             </Array>
-            <mxPoint x="490" y="132" as="sourcePoint" />
-            <mxPoint x="780" y="342" as="targetPoint" />
+            <mxPoint x="490" y="160" as="sourcePoint" />
+            <mxPoint x="780" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Gold layer" vertex="1">
