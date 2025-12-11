@@ -10,13 +10,13 @@
         <mxCell id="mD-MOO04Elf1HDVq-07j-25" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="mD-MOO04Elf1HDVq-07j-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="180" />
+              <mxPoint x="600" y="180" />
               <mxPoint x="470" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5OdJohwx2bvP_gbZxEbY-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" value="" vertex="1">
-          <mxGeometry height="78" width="67.83" x="560" y="340" as="geometry" />
+          <mxGeometry height="78" width="67.83" x="560" y="370" as="geometry" />
         </mxCell>
         <mxCell id="5OdJohwx2bvP_gbZxEbY-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" value="" vertex="1">
           <mxGeometry height="68" width="51" x="740" y="342" as="geometry" />
@@ -88,10 +88,10 @@
         <mxCell id="mD-MOO04Elf1HDVq-07j-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="120" />
+              <mxPoint x="780" y="132" />
             </Array>
-            <mxPoint x="490" y="120" as="sourcePoint" />
-            <mxPoint x="780" y="330" as="targetPoint" />
+            <mxPoint x="490" y="132" as="sourcePoint" />
+            <mxPoint x="780" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gold layer" vertex="1">
