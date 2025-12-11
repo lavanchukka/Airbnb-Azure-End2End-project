@@ -7,8 +7,15 @@
         <mxCell id="mD-MOO04Elf1HDVq-07j-12" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5OdJohwx2bvP_gbZxEbY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mD-MOO04Elf1HDVq-07j-20" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="mD-MOO04Elf1HDVq-07j-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5OdJohwx2bvP_gbZxEbY-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" value="" vertex="1">
-          <mxGeometry height="69" width="60" x="560" y="349" as="geometry" />
+          <mxGeometry height="78" width="67.83" x="560" y="340" as="geometry" />
         </mxCell>
         <mxCell id="5OdJohwx2bvP_gbZxEbY-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" value="" vertex="1">
           <mxGeometry height="68" width="51" x="740" y="342" as="geometry" />
@@ -16,15 +23,26 @@
         <mxCell id="mD-MOO04Elf1HDVq-07j-3" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5OdJohwx2bvP_gbZxEbY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5OdJohwx2bvP_gbZxEbY-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" value="" vertex="1">
+        <mxCell id="5OdJohwx2bvP_gbZxEbY-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;imageBackground=default;" value="" vertex="1">
           <mxGeometry height="68" width="68" x="10" y="240" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-10" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mD-MOO04Elf1HDVq-07j-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mD-MOO04Elf1HDVq-07j-15" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="mD-MOO04Elf1HDVq-07j-15" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.692;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="mD-MOO04Elf1HDVq-07j-11">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="190" />
+              <mxPoint x="303" y="190" />
+            </Array>
             <mxPoint x="330" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mD-MOO04Elf1HDVq-07j-22" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mD-MOO04Elf1HDVq-07j-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5OdJohwx2bvP_gbZxEbY-4" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" value="" vertex="1">
@@ -52,19 +70,22 @@
           <mxGeometry height="40" width="120" x="-210" y="130" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bronze layer" vertex="1">
-          <mxGeometry height="40" width="120" x="150" y="150" as="geometry" />
+          <mxGeometry height="40" width="120" x="80" y="110" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Silver layer" vertex="1">
-          <mxGeometry height="40" width="120" x="280" y="150" as="geometry" />
+          <mxGeometry height="40" width="120" x="220" y="100" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-16" edge="1" parent="1" source="mD-MOO04Elf1HDVq-07j-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="mD-MOO04Elf1HDVq-07j-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mD-MOO04Elf1HDVq-07j-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data Transformations" vertex="1">
-          <mxGeometry height="50" width="120" x="380" y="260" as="geometry" />
+        <mxCell id="mD-MOO04Elf1HDVq-07j-14" parent="1" style="rounded=1;html=1;whiteSpace=wrap;fontSize=12;" value="&amp;nbsp;Transformations/Pyspark" vertex="1">
+          <mxGeometry height="50" width="150" x="380" y="290" as="geometry" />
         </mxCell>
         <mxCell id="mD-MOO04Elf1HDVq-07j-18" edge="1" parent="1" source="5OdJohwx2bvP_gbZxEbY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" target="5OdJohwx2bvP_gbZxEbY-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mD-MOO04Elf1HDVq-07j-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gold layer" vertex="1">
+          <mxGeometry height="40" width="120" x="380" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
