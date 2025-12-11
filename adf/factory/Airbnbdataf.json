@@ -1,0 +1,9 @@
+{
+	"name": "Airbnbdataf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcbc6c7c-2780-4695-84c5-9dcd15122899",
+		"tenantId": "1d04dbbc-103e-4552-bfc3-8136fbd2e8fc"
+	}
+}

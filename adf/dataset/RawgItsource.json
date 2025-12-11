@@ -1,0 +1,23 @@
+{
+	"name": "RawgItsource",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "linkedservice Airbnb git raw data",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "lavanchukka/Airbnb-Azure-End2End-project/refs/heads/main/Airbnb_site_hotel%20new.csv"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
