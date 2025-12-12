@@ -2,7 +2,7 @@
 	"name": "Openrowset Query",
 	"properties": {
 		"content": {
-			"query": "/* select all rows,columns using \nopenrowset which reads the data stored in datalake and \nbulk is used to specify the location, format indicated the format of files present in datalake. \nalias is used since openrowset is stored as virtual table */\n\nselect * \nfrom openrowset(Bulk\n'https://airbnbstoreacc.dfs.core.windows.net/silver/airbnbsilver/',\n format = 'Parquet'\n ) as Openrowsetquery\n",
+			"query": "/* select all rows,columns using \nopenrowset which reads the data stored in datalake and \nbulk is used to specify the location, format indicates the format of files present in datalake. \nalias is used since openrowset is stored as virtual table */\n\nselect * \nfrom openrowset(Bulk\n'https://airbnbstoreacc.dfs.core.windows.net/silver/airbnbsilver/',\n format = 'Parquet'\n ) as Openrowsetquery\n",
 			"metadata": {
 				"language": "sql"
 			},
