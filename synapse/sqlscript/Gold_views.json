@@ -2,7 +2,7 @@
 	"name": "Gold_views",
 	"properties": {
 		"content": {
-			"query": "--create view Gold.airbnb and select * from silver container using openrowset\ncreate view Gold.airbnb\nAS\nselect*\nfrom openrowset(Bulk\n'https://airbnbstoreacc.dfs.core.windows.net/silver/airbnbsilver/',\n format = 'Parquet'\n ) as Openrowsetquery\n",
+			"query": "--create view Gold.airbnb and select * from silver container using openrowset\ncreate view Gold.airbnb_view\nAS\nselect*\nfrom openrowset(Bulk\n'https://airbnbstoreacc.dfs.core.windows.net/silver/airbnbsilver/',\n format = 'Parquet'\n ) as Openrowsetquery\n",
 			"metadata": {
 				"language": "sql"
 			},
